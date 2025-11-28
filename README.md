@@ -2,8 +2,6 @@
 
 ### lua is life
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=janisishere&label=Profile views&color=0e75b6&style=flat" alt="janisishere" /> </p>
-
 - 🌱 I'm currently learning **html, next.js and java**
 
 - 📫 How to reach me **business.janisishere@gmail.com**
