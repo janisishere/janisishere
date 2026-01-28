@@ -1,22 +1,24 @@
-# wsp twin
-<img width="220" height="169" alt="image" src="https://github.com/user-attachments/assets/b6c6a3a2-be82-40fb-b081-ac05ac5f29dd" />
+## wsp im janis twin
+a developer from austria! <br>
+i code stuff 😛 <br>
+also did i mention to check out my repositories? <br>
+no? because theres almost nothing there lol. <br>
+<br>
+check out this cool cat <br>
+<img width="220" height="169" alt="image" src="https://github.com/user-attachments/assets/e10a4d79-e207-49e3-94a6-bb33f01fc1aa" />
 
-### lua is life
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:janis@xlch.dev) 
 
-- 🌱 I'm currently learning **html, next.js and java**
+# 💻 Tech Stack:
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=janisishere&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=janisishere&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=janisishere&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 📫 How to reach me: **janis@xlch.dev**
+---
+[![](https://visitcount.itsvg.in/api?id=janisishere&icon=1&color=10)](https://visitcount.itsvg.in)
 
-- ⚡ Fun fact: **im alive**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/janisishere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="janisishere" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/framer" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/framer" alt="framer" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janisishere&show_icons=true&locale=en&layout=compact" alt="janisishere" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janisishere&show_icons=true&locale=en" alt="janisishere" /></p>
+  ## 💰 You can help me by Donating
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/janisishere) 
