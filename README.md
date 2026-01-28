@@ -1,4 +1,5 @@
-# Hi 👋, I'm janis
+# wsp twin
+<img width="220" height="169" alt="image" src="https://github.com/user-attachments/assets/b6c6a3a2-be82-40fb-b081-ac05ac5f29dd" />
 
 ### lua is life
 
