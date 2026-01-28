@@ -4,9 +4,9 @@
 
 - 🌱 I'm currently learning **html, next.js and java**
 
-- 📫 How to reach me **business.janisishere@gmail.com**
+- 📫 How to reach me: **janis@xlch.dev**
 
-- ⚡ Fun fact **im alive**
+- ⚡ Fun fact: **im alive**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
