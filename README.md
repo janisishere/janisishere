@@ -1,13 +1,12 @@
-## wsp im janis twin
+## wsp im janis
 a developer from austria! <br>
 i code stuff 😛 <br>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:business.janisishere@gmail.com) 
 
-# 💻 Tech Stack:
+<h3 align="left">💻 Tech Stack: </h3>
 <p align="left">
-<h3 align="left">Languages and Tools:</h3>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/3840px-Lua-Logo.svg.png" alt="lua" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
