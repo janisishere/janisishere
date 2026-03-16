@@ -1,6 +1,6 @@
 ## wsp im janis
-a developer from austria! <br>
-i code stuff 😛 <br>
+a developer from austria! ^^ <br>
+i code stuff <br>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:business.janisishere@gmail.com) 
